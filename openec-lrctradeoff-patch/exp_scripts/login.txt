@@ -1,0 +1,18 @@
+192.168.0.1 lrctradeoff lrctradeoff
+192.168.0.2 lrctradeoff lrctradeoff
+192.168.0.3 lrctradeoff lrctradeoff
+192.168.0.4 lrctradeoff lrctradeoff
+192.168.0.5 lrctradeoff lrctradeoff
+192.168.0.6 lrctradeoff lrctradeoff
+192.168.0.7 lrctradeoff lrctradeoff
+192.168.0.8 lrctradeoff lrctradeoff
+192.168.0.9 lrctradeoff lrctradeoff
+192.168.0.10 lrctradeoff lrctradeoff
+192.168.0.11 lrctradeoff lrctradeoff
+192.168.0.12 lrctradeoff lrctradeoff
+192.168.0.13 lrctradeoff lrctradeoff
+192.168.0.14 lrctradeoff lrctradeoff
+192.168.0.15 lrctradeoff lrctradeoff
+192.168.0.16 lrctradeoff lrctradeoff
+192.168.0.17 lrctradeoff lrctradeoff
+
